@@ -36,7 +36,7 @@ levels   = 5  ### number of level
 
 kernel   = gaussian_kernel(size=size, channels=channels, sigma=sigma)
 lap_pyr  = create_laplacian_pyramid(x, kernel, levels=levels)
-gaus_pyr = create_gaussian_pyramid(x, kernel, levels=levels)
+gau_pyr  = create_gaussian_pyramid(x, kernel, levels=levels)
 
 ```
 
