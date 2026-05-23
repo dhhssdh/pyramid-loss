@@ -49,20 +49,6 @@ loss = loss_fn(x,y)
 
 - **Burt & Adelson (1987)** — *The Laplacian Pyramid as a Compact Image Code*  
   Readings in Computer Vision, pp. 671–679, Elsevier.  
-  [[BibTeX]](#bibtex)
-
-<details id="bibtex">
-<summary>BibTeX</summary>
-
-```bibtex
-@incollection{burt1987laplacian,
-  title     = {The Laplacian pyramid as a compact image code},
-  author    = {Burt, Peter J and Adelson, Edward H},
-  booktitle = {Readings in computer vision},
-  pages     = {671--679},
-  year      = {1987},
-  publisher = {Elsevier}
-}
 ```
 
 </details>
