@@ -1,9 +1,13 @@
 """
 Common pyramid-based losses for seismic inversion tasks, including Laplacian and Gaussian pyramids.
 
+Credits
+-------
+Adapted from:
+    gonglixue, "LaplacianLoss-pytorch"
+    https://github.com/gonglixue/LaplacianLoss-pytorch/blob/master/losses.py
+
 @author: Faxuan Wu (faxuanwu@126.com)
-
-
 """
 import numpy as np
 import torch
